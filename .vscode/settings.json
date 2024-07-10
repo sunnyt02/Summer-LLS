@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Summer LLS.sln"
+    "dotnet.defaultSolution": "Summer-LLS.sln"
 }
